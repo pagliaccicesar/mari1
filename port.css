@@ -3,7 +3,7 @@ body {
   --slides-per-page: 2;
   margin: 0;
   overflow: hidden;
-  height: 200vh;
+  height: 100vh;
   font-family: "Roboto Condensed", sans-serif;
   color: #fdb707;
 }
@@ -52,7 +52,8 @@ a {
 .redes {
     z-index: 1;
     position: fixed;
-    right: 20px;
+    left: 250px;
+    /*right: 20px;*/
     top:  0px;
     display: flex;
     margin: 0;
