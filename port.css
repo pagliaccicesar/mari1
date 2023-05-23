@@ -460,7 +460,7 @@ blockquote cite::before {
 }
 @media (min-width: 1700px) {
   body {
-    --slide-per-age: 4;
+    --slide-per-age: 3;
   }
 
   #hero-slides #slides .slide {
