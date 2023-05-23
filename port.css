@@ -489,7 +489,7 @@ blockquote cite::before {
   .redes {
       z-index: 1;
       position: fixed;
-      right: 60px;
+      right: 100px;
       top:  0px;
   }
 }
