@@ -486,6 +486,12 @@ blockquote cite::before {
       padding: 19px 10px;
       font-size: 3.33em;
   }
+  .redes {
+      z-index: 1;
+      position: fixed;
+      right: 60px;
+      top:  0px;
+  }
 }
 
 
