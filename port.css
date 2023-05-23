@@ -460,7 +460,7 @@ blockquote cite::before {
 }
 @media (min-width: 1700px) {
   body {
-    --slide-per-age: 3;
+    --slide-per-age: 1;
   }
 
   #hero-slides #slides .slide {
@@ -471,6 +471,7 @@ blockquote cite::before {
 @media (max-width: 1000px) {
     body {
       --slide-per-age: 1;
+      height: 50vh;                    /*   ***************************/
     }
   
     #hero-slides #slides .slide {
@@ -490,7 +491,7 @@ blockquote cite::before {
   .redes {
       z-index: 1;
       position: fixed;
-      left: 100px;
+      left: 150px;
       top:  0px;
   }
 }
